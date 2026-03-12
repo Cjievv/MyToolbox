@@ -1,6 +1,6 @@
 [package]
 name = "cjie-toolbox"
-version = "0.3.0"
+version = "0.3.1"
 description = "A developer toolbox for Mac"
 authors = ["you"]
 edition = "2021"
